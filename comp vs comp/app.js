@@ -16,3 +16,5 @@ while (comp_answer !== firstGuess) {
 }
 console.log(" the computer said "+comp_answer+"");
 document.write("The guessed number was "+firstGuess+" the computer got it right after "+attempts+" attempts");
+
+//program completed successfully,
